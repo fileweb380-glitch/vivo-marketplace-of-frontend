@@ -90,7 +90,7 @@ export default function OnboardingFlow() {
 
       alert(
         err.response?.data?.message ||
-        'Authentication error.'
+        'Authentication good'
       );
 
     } finally {

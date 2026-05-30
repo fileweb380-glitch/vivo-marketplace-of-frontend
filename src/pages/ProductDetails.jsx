@@ -280,7 +280,7 @@ const handleInstantMessage = async () => {
 
         <div className="product-image-card">
 <img
-  src={`http://localhost:5000${product.image}`}
+  src={`https://vivo-marketplace-of-backend.onrender.com${product.image}`}
   alt={product.name}
   className="product-image"
 />
