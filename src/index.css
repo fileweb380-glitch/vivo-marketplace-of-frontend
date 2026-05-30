@@ -308,7 +308,7 @@ body{
     padding:18px 20px;
   }
 }
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
 
 *{
   margin:0;
@@ -1050,9 +1050,7 @@ body{
   color:#ef4444;
 }
 
-/* =========================
-   BACK BUTTON
-========================= */
+
 
 .back-button{
   display:inline-flex;
@@ -1889,9 +1887,7 @@ body{
   font-weight:700;
 }
 
-/* =========================
-   TABLE
-========================= */
+
 
 .orders-section h3{
   font-size:22px;
@@ -2003,9 +1999,6 @@ body{
   color:#60a5fa;
 }
 
-/* =========================
-   ACTION BUTTONS
-========================= */
 
 .action-btn{
   border:none;
@@ -2661,9 +2654,6 @@ textarea.premium-input{
   }
 
 }
-/* GetStarted.css */
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 
 *{
   margin:0;
@@ -2726,7 +2716,7 @@ body{
   line-height:1.7;
 }
 
-/* GRID */
+
 
 .getstarted-grid{
   position:relative;
@@ -2740,7 +2730,7 @@ body{
   margin:auto;
 }
 
-/* CARD */
+
 
 .getstarted-card{
   background:rgba(255,255,255,0.04);
@@ -2763,7 +2753,6 @@ body{
     0 10px 40px rgba(124,58,237,0.18);
 }
 
-/* ICON */
 
 .card-icon{
   width:70px;
@@ -2782,7 +2771,7 @@ body{
   color:white;
 }
 
-/* TITLE */
+
 
 .getstarted-card h2{
   display:flex;
@@ -2860,7 +2849,7 @@ body{
 }
 /* AdminLogin.css */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
 
 *{
   margin:0;
@@ -5360,7 +5349,7 @@ body{
   opacity:0.9;
 }
 
-```css
+
 .admin-dashboard{
   display:flex;
   flex-direction:column;
