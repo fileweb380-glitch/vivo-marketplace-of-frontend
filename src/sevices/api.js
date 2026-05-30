@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:5000/api',
+  baseURL: 'https://vivo-marketplace-of-backend.onrender.com/api',
   timeout: 15000,
   headers: {
     'Content-Type': 'application/json',
