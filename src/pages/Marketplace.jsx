@@ -362,7 +362,7 @@ export default function Marketplace() {
               <div className="product-image-wrapper">
 
                 <img
-                  src={`http://localhost:5000${prod.image}`}
+                  src={`https://vivo-marketplace-of-backend.onrender.com${prod.image}`}
                   alt={prod.name}
                   className="product-image"
                 />
